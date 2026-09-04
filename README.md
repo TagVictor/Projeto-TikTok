@@ -23,32 +23,30 @@ O projeto consiste no desenvolvimento de uma interface inspirada na plataforma *
 A atividade busca proporcionar aos estudantes uma experiência prática de desenvolvimento, permitindo trabalhar em equipe e transformar os conhecimentos adquiridos em sala de aula em um projeto aplicado.
 
 ---
+🎯 1. Para os Usuários (Missão Oficial)
+A missão oficial declarada pela plataforma é "inspirar a criatividade e trazer alegria". 
+O TikTok foi projetado para:Entreter de forma rápida
+Consumir vídeos curtos em formato vertical e dinâmico.
+Democratizar a criação de conteúdo: 
+Permitir que qualquer pessoa edite e publique vídeos com ferramentas fáceis e efeitos de Inteligência Artificial, sem precisar de equipamentos profissionais.Descobrir comunidades: Conectar pessoas com interesses de nicho muito específicos (como o BookTok para leitura, CleanTok para limpeza, etc.).
 
-## 🎯 Objetivo
+📈 2. O Objetivo de Negócio (Comercial)
+Por trás da plataforma, a ByteDance busca:Reter a atenção: O famoso algoritmo foi desenhado para entender o comportamento do usuário em segundos e mantê-lo navegando na tela pelo maior tempo possível.
+Vender publicidade: Oferecer anúncios altamente personalizados e orgânicos para marcas que desejam atingir o público jovem e adulto.
+Expandir o e-commerce: Com o avanço do TikTok Shop, um dos grandes objetivos atuais é transformar o aplicativo em um shopping virtual, onde o usuário compra produtos diretamente nos vídeos e lives.
 
-O principal objetivo é **aplicar na prática os conhecimentos adquiridos durante o curso de Análise e Desenvolvimento de Sistemas**, desenvolvendo uma interface inspirada no TikTok.
-
-Além disso, o projeto busca estimular:
-
-- Trabalho em equipe;
-- Organização e desenvolvimento de um projeto;
-- Aplicação prática dos conhecimentos acadêmicos;
-- Desenvolvimento de interfaces;
-- Experiência com desenvolvimento de sistemas.
-
+🌐 3. O Objetivo Tecnológico
+Ser o principal ecossistema de aprendizado de máquina (Machine Learning) aplicado ao consumo de mídia, servindo como referência global em recomendação de conteúdo preditiva (adivinhar o que você quer ver antes mesmo de você pesquisar).
 ---
 
 ## 🚀 PRINCIPAIS FUNCIONALIDADES
 
 As principais funcionalidades do projeto estão relacionadas à proposta de reprodução e inspiração da interface do TikTok.
 
-- Interface inspirada na plataforma TikTok;
-- Estrutura visual baseada na experiência de utilização da plataforma;
-- Organização de conteúdos em uma interface de vídeos;
-- Elementos de interação inspirados em redes sociais;
-- Navegação pela interface do projeto.
-
-> **Observação:** as funcionalidades podem ser atualizadas conforme o desenvolvimento do projeto.
+- 🎥  Criação e Edição de Vídeo
+- 🧠 Descoberta e Consumo (Navegação)
+- 💬 Interação Social e Comunidade
+- 💰 Recursos Avançados e Monetização
 
 ---
 
