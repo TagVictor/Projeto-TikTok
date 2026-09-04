@@ -54,13 +54,12 @@ As principais funcionalidades do projeto estão relacionadas à proposta de repr
 
 ## 💻 TECNOLOGIAS UTILIZADAS
 
-> **Tecnologias:**
+## Tecnologias:
 > Desenvolvimento Mobile: Swift para o aplicativo iOS e Kotlin para o aplicativo Android
 > Backend e Serviços: Node.js
 > Processamento de Dados: Apache Spark
 > Banco de Dados e Armazenamento: Bancos relacionais com SQL e NoSQL
 > Inteligência Artificial: Algoritmos proprietários de aprendizado de máquina (Machine Learning)
-> 
 
 ---
 
