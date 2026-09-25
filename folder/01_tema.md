@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Foco em Solução Tecnológica]`
+`[O descarte inadequado de lixo eletrônico e suas consequências sociais e ambientais.]`
 
 ### Do tema amplo ao específico
 
