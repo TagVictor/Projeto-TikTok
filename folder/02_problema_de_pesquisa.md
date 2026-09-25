@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[O lixo eletrônico é importante?.]`
+`[Você sabe descartar o lixo eletronico?.]`
 
 ## Verificação
 
